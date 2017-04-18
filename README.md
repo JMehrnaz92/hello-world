@@ -3,4 +3,4 @@ just another repository
 
 
 Hi
-I'm here to learn coding..
+I'm here to learn coding..I like javascript&CSS.
